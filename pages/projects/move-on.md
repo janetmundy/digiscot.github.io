@@ -27,8 +27,14 @@ The project will also include setting up and moderating a secure online group fo
 
 ### Phase 1
 
-- Publicise service
-- IT literacy skills benchmarked
+we are currently working on updating our website, which will include more detailed information about our IT literacy support. We will also produce fliers shortly.
+
+Our literacy tutors have benchmarked the skills of 9 learners so far this year.  We record progress formally every 6-8 weeks, but there are already exciting developments:
+
+We took a group of learners to the Aye Write Literary Festival in Glasgow in April, to view a display of their creative writing efforts. They used the laptop purchased as part of this project to prepare a presentation on their experience, with photographs and text which they composed themselves.
+
+Over the next few weeks our learners will be working on composing and typing up stories on "Journeys" to upload to the [Scottish Book Trust website](http://scottishbooktrust.com/writing/journeys). 
+
 
 ### Phase 2
 
